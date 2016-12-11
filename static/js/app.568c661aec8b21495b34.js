@@ -171,7 +171,7 @@ function(e, t) {
     e.exports = " <navbar></navbar> <index-content></index-content> "
 },
 function(e, t) {
-    e.exports = ' <div class=nav-main _v-1a44a0f7=""> <div class=wrap _v-1a44a0f7=""> <a class=nav-home v-link="{name: \'index\'}" _v-1a44a0f7="">Wooyun Drops</a> <ul class=nav-github _v-1a44a0f7=""> <li _v-1a44a0f7=""><a href=https://www.0ddt.com target=_blank _v-1a44a0f7="">段彤博客</a></li> </ul> </div> </div> '
+    e.exports = ' <div class=nav-main _v-1a44a0f7=""> <div class=wrap _v-1a44a0f7=""> <a class=nav-home v-link="{name: \'index\'}" _v-1a44a0f7="">Wooyun Drops</a> <ul class=nav-github _v-1a44a0f7=""> <li _v-1a44a0f7=""><a href=http://www.0ddt.com target=_blank _v-1a44a0f7="">段彤博客</a></li> </ul> </div> </div> '
 },
 function(e, t) {
     e.exports = ' <div class=hero _v-72744d6e=""> <div class=wrap _v-72744d6e=""> <div class=text _v-72744d6e="">Wooyun Drops</div> <div class=minitext _v-72744d6e="">学而时习之，不亦说乎？</div> </div> <div class=search-unit _v-72744d6e=""> <input type=text class=search-input v-model=search _v-72744d6e=""> </div> </div> <drop-list :search.sync=search _v-72744d6e=""></drop-list> '
