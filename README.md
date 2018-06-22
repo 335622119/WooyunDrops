@@ -1,12 +1,12 @@
 # Wooyun Drops
 
-DEMO: https://superkieran.github.io/WooyunDrops
+DEMO: https://335622119.github.io/WooyunDrops
 
 ### 静态版乌云 Drops  
 
 OPTIONS:  
 1.默认开启 https，如果不需要可以在 index.html 删掉  
-2.图片依赖于 https://github.com/SuperKieran/wooyun-img  
+2.图片依赖于 https://github.com/335622119/wooyun-img  
 
 全文搜索有想法还但没想好怎么做  
 最先想到的自然是写个后台，搜搜搜就完工了，但这不太方便  
